@@ -363,7 +363,7 @@
             </div>
             <div class="chat-messages"></div>
             <div class="chat-input">
-                <textarea placeholder="Type your message here..." rows="1"></textarea>
+                <textarea placeholder="Schreibe hier Deine Nachricht..." rows="1"></textarea>
                 <button type="submit">Absenden</button>
             </div>
             <div class="chat-footer">
@@ -502,3 +502,4 @@
     });
 
 })();
+
